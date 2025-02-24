@@ -1,4 +1,4 @@
-# method-of-calculation
+# method-of-calculation计算方法
 Numerical Integration Methods for Complex Trapezoids, Simpson, Romberg, Direct Methods for Solving Linear Algebraic Equations
 
 Compare the number of integration nodes of different numerical integration methods under the same accuracy, and understand the advantages and disadvantages of numerical integration methods from the aspects of calculation simplicity, calculation time, and algorithm stability; Using the idea of LU decomposition to solve the tridiagonal equation and derive the calculation formula for the "catch-up method"; Implement column principal element LU decomposition and column principal element solving equations
